@@ -735,3 +735,15 @@ pre a {
 .jenkins_ver {
   display: none;
 }
+
+.top-sticker-inner {
+  font-size: 15px;
+}
+
+#menuSelector {
+  background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG2YAABzjgAA2ksAAIThAAB87gAA2AAAADI5AAAdLnSwtFsAAACMSURBVHja1NKxCQJBEAXQdwoWYGpqGaaWYQEWINiHYAcWINiHBViD0UVGY7KInrt3hxs5MOGDz59pIsKvM1ExVVhESNHPiBF7eZk3vEA7AB9Y5jDsBvD+I20HT3EtwBtmfRhWBbz+6imD4diBp2zJBTzHPcE2lTkawybhbfG8PRgOqcQsbv7zt6vwcwBET6LKOsMQxwAAAABJRU5ErkJggg==') !important;  
+}
+
+#breadcrumbs LI.children, #breadcrumbs LI.separator {
+ background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG2YAABzjgAA2ksAAIThAAB87gAA2AAAADI5AAAdLnSwtFsAAABwSURBVHjaxJOxCYBADEXfKbiBreAezuMGgns4wIHgSO4hCLbf5s7GRpPiPvwmhEdIfoIkPKrwStJjYAP6r/2SXoADuIAZaKwAJe/A4AFkr0DrASjVRw8geykyQbTuwHyFE5iA2pKDCHR/khiKP9M9AABhHKqkiu+1AAAAAElFTkSuQmCC') !important;   
+}
